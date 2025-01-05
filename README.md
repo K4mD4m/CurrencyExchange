@@ -1,6 +1,6 @@
 # Aplikacja Zmiany Walut 🌍💱
 
-Aplikacja umożliwiająca konwersję walut w czasie rzeczywistym z uwzględnieniem aktualnych kursów wymiany. Idealna do codziennych potrzeb finansowych!
+Prosta aplikacja umożliwiająca konwersję walut w czasie rzeczywistym z uwzględnieniem aktualnych kursów wymiany. Idealna do codziennych potrzeb finansowych!
 
 ## Funkcjonalności
 
