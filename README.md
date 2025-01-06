@@ -13,4 +13,4 @@ Prosta aplikacja umożliwiająca konwersję walut w czasie rzeczywistym z uwzgl�
 1. Sklonuj rezpozytorium.
 2. Zainstaluj wymagane zależności: npm install.
 3. Dodaj klucz API (https://www.exchangerate-api.com/)
-4. Uruchom aplikację: npm start.
+4. Uruchom aplikację: npm run build/ npm run dev
